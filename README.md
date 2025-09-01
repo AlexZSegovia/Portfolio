@@ -1,36 +1,72 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Portafolio Personal de Alex Segovia
 
-## Getting Started
+![Portfolio de Alex Segovia](/.github/screenshot.png) <p align="center">
+  <a href="https://portfolio-alexzsegovia.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/Ver_Demo_en_Vivo-0077B5?style=for-the-badge&logo=vercel&logoColor=white&color=cyan" alt="Ver Demo">
+  </a>
+</p>
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## ## 🚀 Sobre el Proyecto
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Este es mi portafolio personal, una **single-page application (SPA)** desarrollada con las tecnologías más modernas del ecosistema de React. El objetivo de este proyecto es mostrar mis habilidades, experiencia y los proyectos en los que he trabajado como Desarrollador Full-Stack.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+El sitio está diseñado para ser completamente **responsive**, dinámico y ofrecer una experiencia de usuario fluida y agradable.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### ### ✨ Características Principales
+* **Diseño Moderno y Responsive:** Adaptable a cualquier dispositivo, desde móviles hasta escritorios.
+* **Animaciones Dinámicas:** Uso de **Framer Motion** para animaciones de scroll-reveal que mejoran la experiencia visual.
+* **Timeline Interactivo:** Una sección de "Experiencia y Educación" que muestra mi trayectoria de forma clara y visual.
+* **Navegación Fluida:** Barra de navegación fija con scroll suave entre secciones.
+* **Proyectos Detallados:** Cada proyecto incluye descripción, tecnologías utilizadas, enlace al repositorio y a la demo en vivo.
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## ## 🛠️ Tecnologías Utilizadas
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Este proyecto fue construido utilizando las siguientes tecnologías:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+<p align="left">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion">
+</p>
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## ## ⚙️ Cómo Ejecutar el Proyecto Localmente
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Si deseas ejecutar este proyecto en tu propia máquina, sigue estos sencillos pasos:
+
+1.  **Clona el repositorio**
+    ```bash
+    git clone [https://github.com/AlexZSegovia/Portfolio.git](https://github.com/AlexZSegovia/Portfolio.git)
+    ```
+
+2.  **Navega a la carpeta del proyecto**
+    ```bash
+    cd Portfolio
+    ```
+
+3.  **Instala las dependencias**
+    ```bash
+    npm install
+    ```
+
+4.  **Ejecuta el servidor de desarrollo**
+    ```bash
+    npm run dev
+    ```
+
+Abre [http://localhost:3000](http://localhost:3000) en tu navegador para ver el resultado.
+
+---
+
+## ## 📫 Contacto
+
+¡Gracias por visitar mi proyecto! Si te gustó mi trabajo o tienes alguna pregunta, no dudes en contactarme.
+
+* **LinkedIn:** [https://www.linkedin.com/in/alex-segovia-210391291/](https://www.linkedin.com/in/alex-segovia-210391291/)
+* **Email:** [alexsegovia654@gmail.com](mailto:alexsegovia654@gmail.com)
