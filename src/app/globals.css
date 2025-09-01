@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+:root {
+  --background: #111827; /* El fondo gris oscuro que diseñamos */
+  --foreground: #e5e7eb; /* El texto gris claro que diseñamos */
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+}
